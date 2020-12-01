@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="sign_up">Sign up</string>
+    <string name="base">1</string>
+    <string name="convert">Convert</string>
+    <string name="curr_calc">Currency\nCalculator</string>
+    <string name="extra_text"><u>Mid-market exchange rate at 13:38UTC</u></string>
+    <string name="last_text"><u>Get rate alerts straight to your email inbox</u></string>
+
+    <string-array name="currencies">
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>PLN</item>
+        <item>SEK</item>
+        <item>USD</item>
+    </string-array>
+</resources>
